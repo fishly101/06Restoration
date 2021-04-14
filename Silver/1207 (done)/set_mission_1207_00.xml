@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="townsman" ID="0">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38140.6</X>
+      <Y>4233.78</Y>
+      <Z>-68686.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.812269</Y>
+      <Z>0</Z>
+      <W>0.583283</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">36</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1207_207</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_start2" ID="1">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38216.7</X>
+      <Y>4233.78</Y>
+      <Z>-68713.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.577243</Y>
+      <Z>0</Z>
+      <W>0.816572</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">silver</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="8">
+    <Name>townsman07</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38220.4</X>
+      <Y>4233.78</Y>
+      <Z>-68648.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">44</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="9">
+    <Name>townsman08</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38064</X>
+      <Y>4233.77</Y>
+      <Z>-68802.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.288486</Y>
+      <Z>0</Z>
+      <W>0.957484</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="10">
+    <Name>townsman09</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38111.6</X>
+      <Y>4258.76</Y>
+      <Z>-68612</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.901461</Y>
+      <Z>0</Z>
+      <W>0.43286</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">44</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="11">
+    <Name>townsman11</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>39736.3</X>
+      <Y>4258.76</Y>
+      <Z>-71802.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">2</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="12">
+    <Name>townsman12</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38235.4</X>
+      <Y>4258.76</Y>
+      <Z>-71314.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="13">
+    <Name>townsman13</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38235.4</X>
+      <Y>4258.76</Y>
+      <Z>-69736.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">2</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="14">
+    <Name>townsman14</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>39736.3</X>
+      <Y>4258.76</Y>
+      <Z>-69248.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="15">
+    <Name>townsman15</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>40664</X>
+      <Y>4258.76</Y>
+      <Z>-70525.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="pointsample" ID="16">
+    <Name>pointsample01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38316.7</X>
+      <Y>4233.78</Y>
+      <Z>-68713.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.741133</Y>
+      <Z>0</Z>
+      <W>0.671358</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">7632239</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="pointsample" ID="17">
+    <Name>pointsample02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38316.7</X>
+      <Y>4233.78</Y>
+      <Z>-68713.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.741133</Y>
+      <Z>0</Z>
+      <W>0.671358</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">7632239</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="18">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38316.7</X>
+      <Y>4233.78</Y>
+      <Z>-68713.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.998782</Y>
+      <Z>0</Z>
+      <W>-0.049338</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(38316.7, 4233.78, -68713.1)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(38316.7, 4233.78, -68713.1)</Parameter>
+    </Parameters>
+  </Object>
+</Placement>

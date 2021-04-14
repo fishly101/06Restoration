@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="townsman" ID="0">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38140.6</X>
+      <Y>4233.78</Y>
+      <Z>-68686.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.812269</Y>
+      <Z>0</Z>
+      <W>0.583283</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">36</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1207_207</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_start2" ID="1">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38316.7</X>
+      <Y>4233.78</Y>
+      <Z>-68713.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.577243</Y>
+      <Z>0</Z>
+      <W>0.816572</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">silver</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventsphere" ID="2">
+    <Name>eventsphere01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38216.7</X>
+      <Y>4233.78</Y>
+      <Z>-68713.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">252.147</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventsphere" ID="3">
+    <Name>eventsphere02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>40664</X>
+      <Y>4233.78</Y>
+      <Z>-70525.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">252.147</Parameter>
+      <Parameter Type="System.String">d1207</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_cage" ID="4">
+    <Name>common_cage01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>40664</X>
+      <Y>4233.78</Y>
+      <Z>-70525.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_cage" ID="5">
+    <Name>common_cage02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>39736.3</X>
+      <Y>4233.78</Y>
+      <Z>-71802.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_cage" ID="6">
+    <Name>common_cage03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38235.4</X>
+      <Y>4233.78</Y>
+      <Z>-71314.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_cage" ID="7">
+    <Name>common_cage04</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38235.4</X>
+      <Y>4233.78</Y>
+      <Z>-69736.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_cage" ID="8">
+    <Name>common_cage05</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>39736.3</X>
+      <Y>4233.78</Y>
+      <Z>-69248.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="9">
+    <Name>townsman08</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38064</X>
+      <Y>4233.77</Y>
+      <Z>-68802.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.288486</Y>
+      <Z>0</Z>
+      <W>0.957484</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="10">
+    <Name>townsman09</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38111.6</X>
+      <Y>4258.76</Y>
+      <Z>-68612</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.901461</Y>
+      <Z>0</Z>
+      <W>0.43286</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">44</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="11">
+    <Name>townsman11</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>39736.3</X>
+      <Y>4258.76</Y>
+      <Z>-71802.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">2</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="12">
+    <Name>townsman12</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38235.4</X>
+      <Y>4258.76</Y>
+      <Z>-71314.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="13">
+    <Name>townsman13</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38235.4</X>
+      <Y>4258.76</Y>
+      <Z>-69736.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">2</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="14">
+    <Name>townsman14</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>39736.3</X>
+      <Y>4258.76</Y>
+      <Z>-69248.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="15">
+    <Name>townsman15</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>40664</X>
+      <Y>4258.76</Y>
+      <Z>-70525.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">43</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String">PetDogBot1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_key" ID="16">
+    <Name>common_key01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>58108.8</X>
+      <Y>3223.22</Y>
+      <Z>-37223.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.017053</X>
+      <Y>-0.539759</Y>
+      <Z>0.010937</Z>
+      <W>0.841576</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">signal/common_cage01</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_key" ID="17">
+    <Name>common_key02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>38691.3</X>
+      <Y>4529.97</Y>
+      <Z>-65688.7</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.018329</X>
+      <Y>0.981528</Y>
+      <Z>-0.125948</Z>
+      <W>-0.142844</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">signal/common_cage02</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_key" ID="18">
+    <Name>common_key03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>33356.8</X>
+      <Y>4610.32</Y>
+      <Z>-54680.3</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">signal/common_cage03</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_key" ID="19">
+    <Name>common_key04</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>43258.8</X>
+      <Y>4620.14</Y>
+      <Z>-54990</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.000797</X>
+      <Y>-1E-06</Y>
+      <Z>-0.001698</Z>
+      <W>0.999998</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">signal/common_cage04</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_key" ID="20">
+    <Name>common_key05</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>36685.6</X>
+      <Y>5248.1</Y>
+      <Z>-67697.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.005876</X>
+      <Y>0.992696</Y>
+      <Z>-0.107622</Z>
+      <W>0.054202</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">signal/common_cage05</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+    <Name>GroupHelper01</Name>
+    <Type>signal/common_cage01</Type>
+    <Objects>
+      <Object>16</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper02</Name>
+    <Type>signal/common_cage02</Type>
+    <Objects>
+      <Object>17</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper03</Name>
+    <Type>signal/common_cage03</Type>
+    <Objects>
+      <Object>18</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper04</Name>
+    <Type>signal/common_cage04</Type>
+    <Objects>
+      <Object>19</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper05</Name>
+    <Type>signal/common_cage05</Type>
+    <Objects>
+      <Object>20</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper06</Name>
+	<Type>d1207</Type>
+	<Objects>
+	 <Object>16</Object>
+	 <Object>17</Object>
+	 <Object>18</Object>
+	 <Object>19</Object>
+	 <Object>20</Object>
+	</Objects>
+  </Group>
+</Placement>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="townsman" ID="0">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>19918.3</X>
+      <Y>199.613</Y>
+      <Z>-8168.68</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>9E-06</X>
+      <Y>-0.707107</Y>
+      <Z>0.0001</Z>
+      <W>0.707107</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1017_017_</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_start2" ID="1">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>19799.9</X>
+      <Y>199.602</Y>
+      <Z>-8171.45</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.0001</X>
+      <Y>0.707107</Y>
+      <Z>-9E-06</Z>
+      <W>0.707107</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="2">
+    <Name>objectphysics01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>20106.9</X>
+      <Y>199.687</Y>
+      <Z>-8629.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>7.7E-05</X>
+      <Y>0</Y>
+      <Z>6.4E-05</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_numberbox01</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="3">
+    <Name>objectphysics02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>19969.8</X>
+      <Y>199.539</Y>
+      <Z>-7675.81</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>7.7E-05</X>
+      <Y>0</Y>
+      <Z>6.4E-05</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_numberbox02</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="4">
+    <Name>objectphysics03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>19417.3</X>
+      <Y>199.56</Y>
+      <Z>-8227.14</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>7.7E-05</X>
+      <Y>0</Y>
+      <Z>6.4E-05</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_numberbox03</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+    <Name>GroupHelper01</Name>
+    <Type>choose1</Type>
+    <Objects>
+      <Object>2</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper02</Name>
+    <Type>choose3</Type>
+    <Objects>
+      <Object>4</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper03</Name>
+    <Type>choose2</Type>
+    <Objects>
+      <Object>3</Object>
+    </Objects>
+  </Group>
+</Placement>
