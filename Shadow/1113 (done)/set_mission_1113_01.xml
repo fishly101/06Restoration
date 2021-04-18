@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="player_start2" ID="0">
+    <Name>player_start02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4059.99</X>
+      <Y>-205.02</Y>
+      <Z>12970.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999994</Y>
+      <Z>-0</Z>
+      <W>0.003508</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">shadow</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="1">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3811.37</X>
+      <Y>-204.644</Y>
+      <Z>12996.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999708</Y>
+      <Z>-0</Z>
+      <W>0.024157</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1113_113</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">7</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="2">
+    <Name>objectphysics01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3680.8</X>
+      <Y>-199.604</Y>
+      <Z>11532.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="3">
+    <Name>objectphysics_item01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4142.11</X>
+      <Y>-201.953</Y>
+      <Z>11529.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="4">
+    <Name>objectphysics_item02</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2188.46</X>
+      <Y>12.6442</Y>
+      <Z>9833.54</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="5">
+    <Name>objectphysics02</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2682.87</X>
+      <Y>14.9927</Y>
+      <Z>9836.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="6">
+    <Name>objectphysics_item03</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2188.46</X>
+      <Y>12.6442</Y>
+      <Z>9342.32</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="7">
+    <Name>objectphysics_item04</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2690.05</X>
+      <Y>12.6442</Y>
+      <Z>9342.32</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="8">
+    <Name>objectphysics_item05</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>3448.36</X>
+      <Y>11.8901</Y>
+      <Z>7342.24</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="9">
+    <Name>objectphysics_item06</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>3840.82</X>
+      <Y>11.8901</Y>
+      <Z>7342.24</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="10">
+    <Name>objectphysics_item07</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>4227.28</X>
+      <Y>11.8901</Y>
+      <Z>7342.24</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="11">
+    <Name>objectphysics_item08</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>4602.21</X>
+      <Y>11.8901</Y>
+      <Z>7342.24</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="12">
+    <Name>objectphysics03</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>3065.25</X>
+      <Y>12.4242</Y>
+      <Z>7344.88</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="13">
+    <Name>objectphysics_item09</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>541.177</X>
+      <Y>11.8901</Y>
+      <Z>8118.22</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="14">
+    <Name>objectphysics_item11</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>-344.938</X>
+      <Y>11.8901</Y>
+      <Z>8118.22</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="15">
+    <Name>objectphysics_item12</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>-809.045</X>
+      <Y>11.8901</Y>
+      <Z>8118.22</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="16">
+    <Name>objectphysics_item13</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>-1239.76</X>
+      <Y>11.8901</Y>
+      <Z>8118.22</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">10</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="17">
+    <Name>objectphysics04</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>94.292</X>
+      <Y>12.4242</Y>
+      <Z>8118.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="18">
+    <Name>eventbox01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4059.99</X>
+      <Y>-205.02</Y>
+      <Z>12970.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">127.639</Parameter>
+      <Parameter Type="System.Single">142.143</Parameter>
+      <Parameter Type="System.Single">219.018</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="19">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3639.1</X>
+      <Y>-203.979</Y>
+      <Z>12647.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.188502</Y>
+      <Z>0</Z>
+      <W>0.982073</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(3805.24, -160.366, 12796.2)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(3639.77, -128.522, 12651.5)</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+    <Name>GroupHelper01</Name>
+    <Type>next_set/GroupHelper03</Type>
+    <Objects>
+      <Object>3</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper02</Name>
+    <Type>failed</Type>
+    <Objects>
+      <Object>2</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper03</Name>
+    <Type>next_set/GroupHelper08</Type>
+    <Objects>
+      <Object>4</Object>
+      <Object>6</Object>
+      <Object>7</Object>
+      <Object>5</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper04</Name>
+    <Type>next_set/GroupHelper08</Type>
+    <Objects>
+      <Object>6</Object>
+      <Object>4</Object>
+      <Object>7</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper05</Name>
+    <Type>failed</Type>
+    <Objects>
+      <Object>5</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper06</Name>
+    <Type>failed</Type>
+    <Objects>
+      <Object>12</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper07</Name>
+    <Type>next_set/GroupHelper09</Type>
+    <Objects>
+      <Object>8</Object>
+      <Object>9</Object>
+      <Object>10</Object>
+      <Object>11</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper08</Name>
+    <Type>next_set/GroupHelper09</Type>
+    <Objects>
+      <Object>12</Object>
+      <Object>8</Object>
+      <Object>9</Object>
+      <Object>10</Object>
+      <Object>11</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper09</Name>
+    <Type></Type>
+    <Objects>
+      <Object>16</Object>
+      <Object>15</Object>
+      <Object>14</Object>
+      <Object>17</Object>
+      <Object>13</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper10</Name>
+    <Type>d1113</Type>
+    <Objects>
+      <Object>16</Object>
+      <Object>15</Object>
+      <Object>14</Object>
+      <Object>13</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper11</Name>
+    <Type>failed</Type>
+    <Objects>
+      <Object>17</Object>
+    </Objects>
+  </Group>
+</Placement>
