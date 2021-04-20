@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="player_start2" ID="0">
+    <Name>player_start02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-4576.04</X>
+      <Y>9.99982</Y>
+      <Z>-13097.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999048</Y>
+      <Z>0</Z>
+      <W>0.043619</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="1">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-3406.71</X>
+      <Y>0</Y>
+      <Z>-12231.3</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-3319.05, 41.9401, -12071.9)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-3407.24, 71.7681, -12231.9)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="2">
+    <Name>glidewire01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-6119.04</X>
+      <Y>1488.47</Y>
+      <Z>6395.26</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-1903.2, 635.246, 4932.69)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="3">
+    <Name>glidewire02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1903.2</X>
+      <Y>635.246</Y>
+      <Z>4932.69</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-6637.55, 2405.23, 2072.37)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="4">
+    <Name>glidewire03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-6637.55</X>
+      <Y>2405.23</Y>
+      <Z>2072.37</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-9993.9, 1488.47, 4271.72)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="5">
+    <Name>glidewire04</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-9993.9</X>
+      <Y>1488.47</Y>
+      <Z>4271.72</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-11551.6, 936.537, 113.159)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="6">
+    <Name>glidewire05</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-11551.6</X>
+      <Y>936.537</Y>
+      <Z>113.159</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-9849.35, 1488.47, -1492.75)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="7">
+    <Name>glidewire06</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-9849.35</X>
+      <Y>1488.47</Y>
+      <Z>-1492.75</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-11552.3, 1488.47, -3371.66)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="8">
+    <Name>glidewire07</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-11552.3</X>
+      <Y>1488.47</Y>
+      <Z>-3371.66</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-8362.49, 1488.47, -6336.2)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="9">
+    <Name>glidewire08</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-8362.49</X>
+      <Y>1488.47</Y>
+      <Z>-6336.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-4274.52, 1633.39, -4579.16)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="10">
+    <Name>glidewire09</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-4274.52</X>
+      <Y>1633.39</Y>
+      <Z>-4579.16</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-1957.98, 1488.47, -8349.18)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="11">
+    <Name>glidewire10</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1957.98</X>
+      <Y>1488.47</Y>
+      <Z>-8349.18</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-4138.23, 1488.47, -9893.52)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="12">
+    <Name>glidewire11</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-4138.23</X>
+      <Y>1488.47</Y>
+      <Z>-9893.52</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-2016.04, 1488.47, -11370.2)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="glidewire" ID="13">
+    <Name>glidewire12</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2016.04</X>
+      <Y>1488.47</Y>
+      <Z>-11370.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="14">
+    <Name>spring01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-5914.06</X>
+      <Y>0</Y>
+      <Z>6636.59</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.707107</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>0.707107</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">2500</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="15">
+    <Name>townsman955(walk)</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-4616.04</X>
+      <Y>9.99982</Y>
+      <Z>-13097.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.008448</X>
+      <Y>0.190114</Y>
+      <Z>-0.001636</Z>
+      <W>0.981724</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">955</Parameter>
+      <Parameter Type="System.Int32">7</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">twn_a_m0007_walk02</Parameter>
+      <Parameter Type="System.String">wait</Parameter>
+      <Parameter Type="System.String">msg_m1026_062</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+</Placement>
