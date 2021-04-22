@@ -1,0 +1,2539 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="townsman" ID="0">
+    <Name>townsman01</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>26514.3</X>
+      <Y>203.946991</Y>
+      <Z>1923.67</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.702414</Y>
+      <Z>0</Z>
+      <W>0.711769</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">27</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1121_121</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_start2" ID="1">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2919.84</X>
+      <Y>202</Y>
+      <Z>-15209.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.0298972</Y>
+      <Z>0</Z>
+      <W>0.999554</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="2">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>26316.1016</X>
+      <Y>200.89299</Y>
+      <Z>1934.52</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.953717</Y>
+      <Z>0</Z>
+      <W>-0.300706</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(26316.1, 200.893, 1934.52)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(26316.1, 200.893, 1934.52)</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="3">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3487.58</X>
+      <Y>200</Y>
+      <Z>-10166.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.794997</Y>
+      <Z>0</Z>
+      <W>0.606613</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">5000</Parameter>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_path_obj" ID="4">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>5266.29</X>
+      <Y>-9.53673953E-05</Y>
+      <Z>-10674.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.123038</Y>
+      <Z>0</Z>
+      <W>0.992402</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">TwnBridge15</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">800</Parameter>
+      <Parameter Type="System.Single">0.05</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="5">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>8329.42</X>
+      <Y>200</Y>
+      <Z>-11470</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.122845</Y>
+      <Z>0</Z>
+      <W>0.992426</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_path_obj" ID="6">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>8852.6</X>
+      <Y>0</Y>
+      <Z>-9539.99</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.795299</Y>
+      <Z>0</Z>
+      <W>0.606217</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">TwnBridge15</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">800</Parameter>
+      <Parameter Type="System.Single">0.05</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="itemboxg" ID="7">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6138.44971</X>
+      <Y>200</Y>
+      <Z>-4012.54</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_path_obj" ID="8">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1669</X>
+      <Y>0</Y>
+      <Z>-5302.07</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.695727</Y>
+      <Z>0</Z>
+      <W>-0.718308</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">TwnBridge15</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">800</Parameter>
+      <Parameter Type="System.Single">0.05</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring_twn" ID="9">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>591.357</X>
+      <Y>-385.212</Y>
+      <Z>-3193.56982</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.715631</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>-0.698481</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="widespring" ID="10">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>520.362</X>
+      <Y>200</Y>
+      <Z>-3236.68</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.48311</X>
+      <Y>0.516611</Y>
+      <Z>0.487826</Z>
+      <W>0.511616</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="11">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>10603.3</X>
+      <Y>200</Y>
+      <Z>-14016.499</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="12">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>10946.7</X>
+      <Y>200</Y>
+      <Z>-12521.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.70783</Y>
+      <Z>0</Z>
+      <W>0.706383</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">2300</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="13">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>8696.91</X>
+      <Y>1927.87988</Y>
+      <Z>130.38501</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.110829</X>
+      <Y>0.713942</Y>
+      <Z>0.116094</Z>
+      <W>0.681562</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">5000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">47</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="14">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>19494.8</X>
+      <Y>200</Y>
+      <Z>-4848.34</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.510612</Y>
+      <Z>0</Z>
+      <W>-0.859813</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="15">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>17675.9</X>
+      <Y>170</Y>
+      <Z>-5698.29</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="16">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>18677.6</X>
+      <Y>845.805</Y>
+      <Z>4298.64</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.00493301</Y>
+      <Z>0</Z>
+      <W>0.999988</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">17</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="17">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>17806.7988</X>
+      <Y>630.36</Y>
+      <Z>6738.79</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">18</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="18">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>19504.7</X>
+      <Y>862.024048</Y>
+      <Z>4986.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">19</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="19">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>20453.7012</X>
+      <Y>849.139954</Y>
+      <Z>6494.65039</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">20</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="20">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>21566.7012</X>
+      <Y>988.656067</Y>
+      <Z>4986.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">21</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="21">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22853.2</X>
+      <Y>887.524048</Y>
+      <Z>7524.73</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">34</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="changelight" ID="22">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>24043.6</X>
+      <Y>-233.347015</Y>
+      <Z>4995.38</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="23">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>25041.4</X>
+      <Y>1260.4</Y>
+      <Z>6496.38</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">24</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="24">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>26671.6</X>
+      <Y>490.101</Y>
+      <Z>4988.44971</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">25</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="25">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>27151.3</X>
+      <Y>1072.4</Y>
+      <Z>6509.62</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">26</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="26">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>31147.1016</X>
+      <Y>811.196045</Y>
+      <Z>3831.69</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">27</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="27">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>27853.7</X>
+      <Y>1166.87</Y>
+      <Z>1107.17</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">28</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="28">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>31114.4</X>
+      <Y>879.778</Y>
+      <Z>213.576</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">29</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="29">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>27853.7988</X>
+      <Y>1350.19</Y>
+      <Z>-1525.37</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">30</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="30">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>30761.6</X>
+      <Y>860.762</Y>
+      <Z>-4255.87</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">31</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="31">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28516.5</X>
+      <Y>1489.97</Y>
+      <Z>-7008.21</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">32</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="32">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>30327.1</X>
+      <Y>923.967</Y>
+      <Z>-7026.46045</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">33</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="33">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28535</X>
+      <Y>464.759</Y>
+      <Z>-7072.42</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="chainjump" ID="34">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>23930.1</X>
+      <Y>972.891052</Y>
+      <Z>4995.39</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.UInt32">23</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="35">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>16538.2012</X>
+      <Y>718.096</Y>
+      <Z>5909.58</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.71433</X>
+      <Y>-0.46897</Y>
+      <Z>0.322694</Z>
+      <W>-0.407025</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">16</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="36">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22082.5</X>
+      <Y>200.001</Y>
+      <Z>3563.96</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_path_obj" ID="37">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28525.6016</X>
+      <Y>-0.00038147</Y>
+      <Z>2672.67</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">TwnBridge15</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">800</Parameter>
+      <Parameter Type="System.Single">0.05</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_path_obj" ID="38">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>30351</X>
+      <Y>0</Y>
+      <Z>-1373.15</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.693014</Y>
+      <Z>0</Z>
+      <W>0.720926</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">TwnBridge20b</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">800</Parameter>
+      <Parameter Type="System.Single">0.05</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="39">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29744.2988</X>
+      <Y>200</Y>
+      <Z>-10735.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="40">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29684.3984</X>
+      <Y>0</Y>
+      <Z>-8959.3</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="41">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>11305.5</X>
+      <Y>205</Y>
+      <Z>985.811035</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.511439</X>
+      <Y>0.273592</Y>
+      <Z>-0.365397</Z>
+      <W>0.728054</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">42</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="42">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>13142.9</X>
+      <Y>797.594</Y>
+      <Z>1695.78</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.976975</Y>
+      <Z>0</Z>
+      <W>-0.213354</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">43</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="43">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12527.9</X>
+      <Y>758.962036</Y>
+      <Z>-50.0039978</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.124456</X>
+      <Y>0.519562</Y>
+      <Z>-0.040268</Z>
+      <W>0.84436</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">44</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="44">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>13571.001</X>
+      <Y>229.849</Y>
+      <Z>366.874</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.909372</X>
+      <Y>-0.0565907</Y>
+      <Z>0.13179</Z>
+      <W>-0.390476</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">45</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="45">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>15085.8994</X>
+      <Y>1489.98</Y>
+      <Z>-4243.96</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.43268</Y>
+      <Z>0</Z>
+      <W>0.901548</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">46</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="46">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>18545.7988</X>
+      <Y>200</Y>
+      <Z>-3526.94019</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.235191</Y>
+      <Z>0</Z>
+      <W>0.971949</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="itemboxg" ID="47">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>15110.3</X>
+      <Y>1437.05994</Y>
+      <Z>975.220947</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="48">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>20942.2</X>
+      <Y>200</Y>
+      <Z>2478.56</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.699178</Y>
+      <Z>0</Z>
+      <W>0.71495</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="49">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22611.5</X>
+      <Y>200</Y>
+      <Z>2501.19</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.99998</Y>
+      <Z>0</Z>
+      <W>0.00707337</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="50">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22594.8</X>
+      <Y>200</Y>
+      <Z>554.258</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.705772</Y>
+      <Z>0</Z>
+      <W>0.708441</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="51">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22599.1</X>
+      <Y>200</Y>
+      <Z>1276.09</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.71405</Y>
+      <Z>0</Z>
+      <W>-0.700097</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="52">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>21843.4</X>
+      <Y>200</Y>
+      <Z>1248.74</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999938</Y>
+      <Z>0</Z>
+      <W>0.0115487</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="53">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>21847.1</X>
+      <Y>200</Y>
+      <Z>554.58</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.707966</Y>
+      <Z>0</Z>
+      <W>0.706249</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="54">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>23221.1</X>
+      <Y>200</Y>
+      <Z>551.864</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="55">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>23203.7988</X>
+      <Y>200</Y>
+      <Z>1481.51</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.709233</Y>
+      <Z>0</Z>
+      <W>0.704975</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="56">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24376.7</X>
+      <Y>200</Y>
+      <Z>1496.76</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.285513</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>0.958375</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">57</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="57">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24205</X>
+      <Y>1271.25</Y>
+      <Z>2995.67</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.999138</X>
+      <Y>-1.56016E-07</Y>
+      <Z>-1.56016E-07</Z>
+      <W>0.0415161</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">58</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="58">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24415.4</X>
+      <Y>1269.47</Y>
+      <Z>-1191.87</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.172288</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>0.985047</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">59</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="59">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24382.2012</X>
+      <Y>200</Y>
+      <Z>316.073975</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.695801</Y>
+      <Z>0</Z>
+      <W>0.718236</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="60">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>25518</X>
+      <Y>200</Y>
+      <Z>294.478</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="61">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>25507.6</X>
+      <Y>200</Y>
+      <Z>2656.99</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.70379</Y>
+      <Z>0</Z>
+      <W>0.710408</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="62">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>20929.8</X>
+      <Y>200</Y>
+      <Z>646.458</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3500</Parameter>
+      <Parameter Type="System.Single">200</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="63">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>20949.8984</X>
+      <Y>200</Y>
+      <Z>2833.16</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">200</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_stopplayercollision" ID="64">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>20932.1</X>
+      <Y>762</Y>
+      <Z>2488.21</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">200</Parameter>
+      <Parameter Type="System.Single">200</Parameter>
+      <Parameter Type="System.Single">250</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="65">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-234.552</X>
+      <Y>200</Y>
+      <Z>-9825.57</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.496257</Y>
+      <Z>0</Z>
+      <W>0.868175</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="66">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1194.8</X>
+      <Y>200</Y>
+      <Z>-8960.58</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.259006</Y>
+      <Z>0</Z>
+      <W>0.965876</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="67">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>404.54303</X>
+      <Y>200</Y>
+      <Z>-7440.17041</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.857922</Y>
+      <Z>0</Z>
+      <W>0.513781</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.7</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="68">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1514.56</X>
+      <Y>200</Y>
+      <Z>-8549.34</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.260576</Y>
+      <Z>0</Z>
+      <W>0.965453</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_path_obj" ID="69">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1643.35</X>
+      <Y>0.00038147</Y>
+      <Z>1089.63</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.465149</Y>
+      <Z>0</Z>
+      <W>0.885234</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">TwnBridge20b</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">800</Parameter>
+      <Parameter Type="System.Single">0.05</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="70">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>192.122</X>
+      <Y>200</Y>
+      <Z>2970.71</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="71">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>190.984</X>
+      <Y>200</Y>
+      <Z>2759.98</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="72">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>178.331009</X>
+      <Y>200.001</Y>
+      <Z>1887.71</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="73">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>185.902</X>
+      <Y>200.001</Y>
+      <Z>2096.41</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="74">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>170.969</X>
+      <Y>200.001</Y>
+      <Z>1681.74988</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="75">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>163.607</X>
+      <Y>200.001</Y>
+      <Z>1475.16</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="76">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>160.016</X>
+      <Y>200.001</Y>
+      <Z>1264.6499</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="77">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>173.478</X>
+      <Y>406.036</Y>
+      <Z>1265.67</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="78">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>168.353</X>
+      <Y>403.103027</Y>
+      <Z>1481.72</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="79">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>163.027008</X>
+      <Y>408.327</Y>
+      <Z>1692.45</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="80">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>163.826</X>
+      <Y>397.618</Y>
+      <Z>1894.37012</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="81">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>191.356</X>
+      <Y>392.53</Y>
+      <Z>2102.26</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="82">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>192.677</X>
+      <Y>388.608</Y>
+      <Z>2970.31</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="83">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>190.945</X>
+      <Y>400.026978</Y>
+      <Z>2760.18018</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="84">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1310.23</X>
+      <Y>400</Y>
+      <Z>3401.34</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.70095</Y>
+      <Z>0</Z>
+      <W>0.713211</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">5000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="85">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1219.81</X>
+      <Y>400</Y>
+      <Z>3172.42</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="86">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1430.75</X>
+      <Y>400</Y>
+      <Z>3164.56</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="87">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1654.03992</X>
+      <Y>400</Y>
+      <Z>3153.44019</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="88">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1013.36005</X>
+      <Y>400</Y>
+      <Z>3159.69019</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="89">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-786.508</X>
+      <Y>400</Y>
+      <Z>3156</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="90">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-562.839</X>
+      <Y>400</Y>
+      <Z>3163.55</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="91">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-312.034</X>
+      <Y>400</Y>
+      <Z>3169.42017</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="92">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-43.6638</X>
+      <Y>400</Y>
+      <Z>3174.77</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="93">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>182.637</X>
+      <Y>400</Y>
+      <Z>3171.52</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="94">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>405.927979</X>
+      <Y>400</Y>
+      <Z>3160.37</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="95">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>632.753</X>
+      <Y>400</Y>
+      <Z>3159.05</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="96">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>851.514</X>
+      <Y>400</Y>
+      <Z>3155.94</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="97">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1053.95007</X>
+      <Y>400</Y>
+      <Z>3154.45</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="98">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1270.07</X>
+      <Y>400</Y>
+      <Z>3150.33</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="99">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1507.65</X>
+      <Y>400</Y>
+      <Z>3146.17</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="100">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1733.30994</X>
+      <Y>400</Y>
+      <Z>3151.33</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="101">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1963.29993</X>
+      <Y>400</Y>
+      <Z>3151.05981</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="102">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2196.96</X>
+      <Y>400</Y>
+      <Z>3152.75</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="103">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2447.18</X>
+      <Y>400</Y>
+      <Z>3158.76</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="104">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2687.64</X>
+      <Y>400</Y>
+      <Z>3159.29</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="105">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2914.9</X>
+      <Y>400</Y>
+      <Z>3163.66016</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="106">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3126.58984</X>
+      <Y>400</Y>
+      <Z>3158.21</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="107">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3339.18</X>
+      <Y>400</Y>
+      <Z>3147.04</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="108">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3550.09</X>
+      <Y>400</Y>
+      <Z>3153.72021</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="109">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3767.2002</X>
+      <Y>400</Y>
+      <Z>3160.29</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="110">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3291.21021</X>
+      <Y>400</Y>
+      <Z>3406.15015</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.656262</X>
+      <Y>0.262926</Y>
+      <Z>-0.262778</Z>
+      <W>0.656611</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">111</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="111">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6851.71</X>
+      <Y>1118.98</Y>
+      <Z>3597.93018</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.116041</X>
+      <Y>-0.703671</Y>
+      <Z>-0.118177</Z>
+      <W>0.690953</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">112</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="spring" ID="112">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3947.66016</X>
+      <Y>1733.30994</Y>
+      <Z>4000.05</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.103379</X>
+      <Y>0.878437</Y>
+      <Z>0.221028</Z>
+      <W>0.410863</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">5000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+      <Parameter Type="System.UInt32">13</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="113">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4595.32031</X>
+      <Y>200.001</Y>
+      <Z>2708.45</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="114">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4578.81</X>
+      <Y>200.001</Y>
+      <Z>2227.97</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.00157499</X>
+      <Y>0.997382</Y>
+      <Z>0.0228879</Z>
+      <W>-0.0686335</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="115">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4591.59033</X>
+      <Y>200</Y>
+      <Z>1234.05</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.702611</Y>
+      <Z>0</Z>
+      <W>0.711577</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="116">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6585.80029</X>
+      <Y>200.001</Y>
+      <Z>1231.19006</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="117">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4557.65</X>
+      <Y>200.001</Y>
+      <Z>3204.63</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.71176</Y>
+      <Z>0</Z>
+      <W>0.702424</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="118">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6584.32031</X>
+      <Y>200.001</Y>
+      <Z>3203.74</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999333</Y>
+      <Z>0</Z>
+      <W>-0.036597</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="dashpanel" ID="119">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6576.5</X>
+      <Y>200.001</Y>
+      <Z>2184.77</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.714247</Y>
+      <Z>0</Z>
+      <W>0.699895</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">3000</Parameter>
+      <Parameter Type="System.Single">0.5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_hint_collision" ID="120">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29234.5</X>
+      <Y>233.536011</Y>
+      <Z>-7011.67969</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">hint_mis01_e03_sn</Parameter>
+      <Parameter Type="System.Single">2000</Parameter>
+      <Parameter Type="System.Single">2000</Parameter>
+      <Parameter Type="System.Single">1000</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="goalring" ID="121">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28795.7</X>
+      <Y>560.078</Y>
+      <Z>-7036.28027</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.716579</Y>
+      <Z>0</Z>
+      <W>0.697507</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="common_hint_collision" ID="122">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2909.16016</X>
+      <Y>202</Y>
+      <Z>-15041.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">hint_mis01_e02_sn</Parameter>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="123">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2769.47</X>
+      <Y>202</Y>
+      <Z>-15284.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+</Placement>
