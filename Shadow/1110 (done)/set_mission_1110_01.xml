@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="player_start2" ID="0">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-5640.36</X>
+      <Y>10.7494</Y>
+      <Z>2267.74</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.70333</Y>
+      <Z>0</Z>
+      <W>0.710864</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">shadow</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="1">
+    <Name>objectphysics01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-3379.06</X>
+      <Y>171.952</Y>
+      <Z>1352.72</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="2">
+    <Name>objectphysics02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1303.84</X>
+      <Y>171.952</Y>
+      <Z>896.403</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.416709</Y>
+      <Z>0</Z>
+      <W>0.90904</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="3">
+    <Name>objectphysics03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>416.364</X>
+      <Y>171.952</Y>
+      <Z>1146.94</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.110767</Y>
+      <Z>0</Z>
+      <W>0.993846</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="4">
+    <Name>objectphysics04</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2122.62</X>
+      <Y>171.952</Y>
+      <Z>609.692</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.34476</Y>
+      <Z>0</Z>
+      <W>0.938691</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="5">
+    <Name>objectphysics05</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>4508.88</X>
+      <Y>171.952</Y>
+      <Z>562.163</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.082251</Y>
+      <Z>0</Z>
+      <W>0.996612</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="6">
+    <Name>objectphysics06</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3613.25</X>
+      <Y>171.952</Y>
+      <Z>-930.049</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.5177</Y>
+      <Z>0</Z>
+      <W>0.855562</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="7">
+    <Name>objectphysics07</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2838.1</X>
+      <Y>171.952</Y>
+      <Z>3531.38</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.447647</Y>
+      <Z>0</Z>
+      <W>0.89421</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="8">
+    <Name>objectphysics08</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-5267.62</X>
+      <Y>171.952</Y>
+      <Z>3320.91</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.012513</Y>
+      <Z>0</Z>
+      <W>0.999922</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="9">
+    <Name>objectphysics09</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-6485.3</X>
+      <Y>171.952</Y>
+      <Z>3696.7</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.435946</Y>
+      <Z>0</Z>
+      <W>0.899973</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="10">
+    <Name>objectphysics10</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-7941.27</X>
+      <Y>171.952</Y>
+      <Z>3397.93</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.004819</Y>
+      <Z>0</Z>
+      <W>0.999988</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="11">
+    <Name>objectphysics11</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-8333.21</X>
+      <Y>171.952</Y>
+      <Z>3661.66</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.285152</Y>
+      <Z>0</Z>
+      <W>0.958482</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="12">
+    <Name>objectphysics12</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-8356.77</X>
+      <Y>171.952</Y>
+      <Z>3232.37</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.569857</Y>
+      <Z>0</Z>
+      <W>0.821744</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="13">
+    <Name>objectphysics13</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-1035.2</X>
+      <Y>171.952</Y>
+      <Z>1194.78</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.043888</Y>
+      <Z>0</Z>
+      <W>0.999036</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="14">
+    <Name>objectphysics14</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2945.02</X>
+      <Y>171.952</Y>
+      <Z>5034.35</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.10268</Y>
+      <Z>0</Z>
+      <W>0.994714</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="itemboxg" ID="15">
+    <Name>itemboxg01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-5827.66</X>
+      <Y>9.00239</Y>
+      <Z>6503.08</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">6</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="16">
+    <Name>objectphysics15</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2648.33</X>
+      <Y>171.952</Y>
+      <Z>4808.46</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.493612</Y>
+      <Z>0</Z>
+      <W>0.869682</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="17">
+    <Name>objectphysics16</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2585.92</X>
+      <Y>171.952</Y>
+      <Z>5216.23</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.000897</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="18">
+    <Name>objectphysics17</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2439.21</X>
+      <Y>171.952</Y>
+      <Z>6372.06</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.56111</Y>
+      <Z>0</Z>
+      <W>0.827741</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="19">
+    <Name>objectphysics18</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2906.09</X>
+      <Y>171.952</Y>
+      <Z>6062.7</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.896968</Y>
+      <Z>-0</Z>
+      <W>0.442096</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="20">
+    <Name>objectphysics19</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2740.66</X>
+      <Y>171.952</Y>
+      <Z>6638.82</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.473942</Y>
+      <Z>0</Z>
+      <W>0.880556</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="21">
+    <Name>objectphysics20</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-2933.62</X>
+      <Y>171.952</Y>
+      <Z>7554.37</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.473942</Y>
+      <Z>0</Z>
+      <W>0.880556</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="22">
+    <Name>objectphysics21</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-3996.96</X>
+      <Y>171.952</Y>
+      <Z>8007.82</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.000816</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">kdv_rock</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="23">
+    <Name>eventbox01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-5640.36</X>
+      <Y>10.7494</Y>
+      <Z>2267.74</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">870.787</Parameter>
+      <Parameter Type="System.Single">580.524</Parameter>
+      <Parameter Type="System.Single">1044.94</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+    <Name>GroupHelper01</Name>
+    <Type>d1110</Type>
+    <Objects>
+      <Object>22</Object>
+      <Object>21</Object>
+      <Object>20</Object>
+      <Object>18</Object>
+      <Object>19</Object>
+      <Object>17</Object>
+      <Object>14</Object>
+      <Object>16</Object>
+      <Object>7</Object>
+      <Object>1</Object>
+      <Object>8</Object>
+      <Object>9</Object>
+      <Object>10</Object>
+      <Object>12</Object>
+      <Object>11</Object>
+      <Object>2</Object>
+      <Object>13</Object>
+      <Object>3</Object>
+      <Object>4</Object>
+      <Object>6</Object>
+      <Object>5</Object>
+    </Objects>
+  </Group>
+</Placement>
