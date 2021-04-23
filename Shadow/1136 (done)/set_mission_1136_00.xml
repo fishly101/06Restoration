@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="player_start2" ID="0">
+    <Name>player_start02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24756.3</X>
+      <Y>201.49</Y>
+      <Z>-8974.03</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.819152</Y>
+      <Z>0</Z>
+      <W>0.573576</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">shadow</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="1">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24897</X>
+      <Y>204.443</Y>
+      <Z>-9003.97</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.5373</Y>
+      <Z>0</Z>
+      <W>0.843391</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1136_136</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">7</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="2">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>24703.2</X>
+      <Y>203.232</Y>
+      <Z>-8620.41</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.866025</Y>
+      <Z>0</Z>
+      <W>-0.5</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(24454.7, 235.147, -8752.1)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(24692.9, 267.571, -8621.03)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="vehicle" ID="3">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>24304.2</X>
+      <Y>235.232</Y>
+      <Z>-8600.41</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.686907</Y>
+      <Z>0</Z>
+      <W>-0.726747</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+    </Parameters>
+  </Object>
+</Placement>

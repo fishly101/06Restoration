@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="townsman" ID="0">
+    <Name>townsman01</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>26514.3</X>
+      <Y>203.946991</Y>
+      <Z>1923.67</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.702414</Y>
+      <Z>0</Z>
+      <W>0.711769</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">27</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1121_121</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_start2" ID="1">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>17396.2988</X>
+      <Y>95.0002</Y>
+      <Z>-5892.85</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.655848</Y>
+      <Z>0</Z>
+      <W>0.754893</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">shadow</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="2">
+    <Name>player_goal01</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>26316.1016</X>
+      <Y>200.89299</Y>
+      <Z>1934.52</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.953717</Y>
+      <Z>0</Z>
+      <W>-0.300706</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(26316.1, 200.893, 1934.52)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(26316.1, 200.893, 1934.52)</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="vehicle" ID="3">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>17084</X>
+      <Y>81.9982</Y>
+      <Z>-5899.59</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.693751</Y>
+      <Z>0</Z>
+      <W>0.720215</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="4">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>14993.6006</X>
+      <Y>145.363</Y>
+      <Z>-4690.73</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="5">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>8783.04</X>
+      <Y>145.25</Y>
+      <Z>-9446.07</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="6">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3396.9502</X>
+      <Y>145.247</Y>
+      <Z>-1972.90991</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="7">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-10581</X>
+      <Y>145.4839973</Y>
+      <Z>5795.79</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="8">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>14998.8008</X>
+      <Y>145.9275</Y>
+      <Z>98.1087</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="9">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>25270.7</X>
+      <Y>149.224</Y>
+      <Z>-5573.8</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="10">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>23597.5</X>
+      <Y>145.025</Y>
+      <Z>11017.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="11">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>16561.5</X>
+      <Y>145.096008</Y>
+      <Z>-10460.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="12">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28645.498</X>
+      <Y>145.326004</Y>
+      <Z>-14135.6006</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="13">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>362.22</X>
+      <Y>145.079</Y>
+      <Z>-14688.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="vehicle" ID="14">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>7444.41</X>
+      <Y>80.0003</Y>
+      <Z>-12208.8994</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.982333</Y>
+      <Z>0</Z>
+      <W>-0.187141</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="vehicle" ID="15">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>21443.7</X>
+      <Y>79.9999</Y>
+      <Z>-16525.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.753727</Y>
+      <Z>0</Z>
+      <W>0.657189</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="vehicle" ID="16">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-4622.2</X>
+      <Y>80.0014</Y>
+      <Z>1531.01</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="vehicle" ID="17">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29185.9</X>
+      <Y>80.0001</Y>
+      <Z>-504.974976</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.686907</Y>
+      <Z>0</Z>
+      <W>-0.726747</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="18">
+    <Name>eventbox01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>17396.2988</X>
+      <Y>95.0002</Y>
+      <Z>-5892.85</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">201.803</Parameter>
+      <Parameter Type="System.Single">226.468</Parameter>
+      <Parameter Type="System.Single">287.009</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+   <Name>GroupHelper01</Name>
+   <Type>d1136</Type>
+   <Objects>
+     <Object>4</Object>
+	 <Object>5</Object>
+	 <Object>6</Object>
+	 <Object>7</Object>
+	 <Object>8</Object>
+	 <Object>9</Object>
+	 <Object>10</Object>
+	 <Object>11</Object>
+	 <Object>12</Object>
+	 <Object>13</Object>
+   </Objects>
+  </Group>
+</Placement>
