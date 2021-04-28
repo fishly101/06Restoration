@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="player_start2" ID="0">
+    <Name>player_start02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>30178.3</X>
+      <Y>5887.73</Y>
+      <Z>-71510</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.223741</Y>
+      <Z>0</Z>
+      <W>0.974649</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">silver</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="1">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28862.4</X>
+      <Y>5690.59</Y>
+      <Z>-69143.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.941207</Y>
+      <Z>-0</Z>
+      <W>0.337831</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">4</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1206_206</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="2">
+    <Name>objectphysics01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28552.4</X>
+      <Y>5731.85</Y>
+      <Z>-68802.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.337184</Y>
+      <Z>0</Z>
+      <W>0.941439</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">BombBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_cage" ID="3">
+    <Name>common_cage01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28864.4</X>
+      <Y>5690.54</Y>
+      <Z>-69147.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.353664</Y>
+      <Z>0</Z>
+      <W>0.935373</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="4">
+    <Name>eventbox01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29636.6</X>
+      <Y>5480.28</Y>
+      <Z>-70475.8</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.294106</Y>
+      <Z>0</Z>
+      <W>0.955773</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">925.609</Parameter>
+      <Parameter Type="System.Single">2057.6</Parameter>
+      <Parameter Type="System.Single">1275.84</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="5">
+    <Name>enemy01</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>29402.2</X>
+      <Y>5759.61</Y>
+      <Z>-70178.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.962455</Y>
+      <Z>-0</Z>
+      <W>0.27144</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix_Rocket</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="6">
+    <Name>enemy02</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>28545.6</X>
+      <Y>5759.61</Y>
+      <Z>-70008.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.962455</Y>
+      <Z>-0</Z>
+      <W>0.27144</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix_Rocket</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="7">
+    <Name>enemy03</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>29705.3</X>
+      <Y>5759.61</Y>
+      <Z>-69330.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.962455</Y>
+      <Z>-0</Z>
+      <W>0.27144</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix_Rocket</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="8">
+    <Name>enemy04</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>28973.3</X>
+      <Y>5759.61</Y>
+      <Z>-70104</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.962455</Y>
+      <Z>-0</Z>
+      <W>0.27144</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix_Rocket</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="9">
+    <Name>enemy05</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>29556.6</X>
+      <Y>5759.61</Y>
+      <Z>-69756.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.962455</Y>
+      <Z>-0</Z>
+      <W>0.27144</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix_Rocket</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="10">
+    <Name>objectphysics02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>28457.7</X>
+      <Y>5731.85</Y>
+      <Z>-69443.2</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.337184</Y>
+      <Z>0</Z>
+      <W>0.941439</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">BombBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="11">
+    <Name>objectphysics03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29105.2</X>
+      <Y>5731.85</Y>
+      <Z>-69530.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.337184</Y>
+      <Z>0</Z>
+      <W>0.941439</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">BombBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="12">
+    <Name>objectphysics04</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>29218.6</X>
+      <Y>5731.85</Y>
+      <Z>-68917.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.337184</Y>
+      <Z>0</Z>
+      <W>0.941439</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">BombBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="13">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>33335.5</X>
+      <Y>5740.5</Y>
+      <Z>-71171.6953</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.785774</Y>
+      <Z>0</Z>
+      <W>0.618513</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(33054.5, 5783.31, -71173.21)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(33330.2, 5814.19, -71170.7)</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+    <Name>GroupHelper01</Name>
+    <Type>next_set/GroupHelper02</Type>
+    <Objects>
+      <Object>4</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper02</Name>
+    <Type>signal/common_cage01</Type>
+    <Objects>
+      <Object>7</Object>
+      <Object>9</Object>
+      <Object>5</Object>
+      <Object>8</Object>
+      <Object>6</Object>
+	  <Object>2</Object>
+      <Object>12</Object>
+      <Object>11</Object>
+      <Object>10</Object>
+    </Objects>
+  </Group>
+</Placement>
