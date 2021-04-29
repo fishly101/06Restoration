@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="player_start2" ID="0">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>229.980988</X>
+      <Y>198.36</Y>
+      <Z>2424.76</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.819152</Y>
+      <Z>0</Z>
+      <W>0.573576</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">silver</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="memory_of_past" ID="1">
+    <Name>memory_of_past01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-461.426025</X>
+      <Y>203.278992</Y>
+      <Z>2249.26</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.UInt32">2</Parameter>
+      <Parameter Type="System.Single">5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="cameraeventbox" ID="2">
+    <Name>cameraeventbox01</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2629.56</X>
+      <Y>0.000190735</Y>
+      <Z>-1941.72</Z>
+    </Position>
+    <DrawDistance>10000</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">10000</Parameter>
+      <Parameter Type="System.Single">10000</Parameter>
+      <Parameter Type="System.Single">3215.07983</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-1901.62, 404.158, -7178.32)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-22.9962, 276.395, -8627.37)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="3">
+    <Name>townsman01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-564.854</X>
+      <Y>267.386017</Y>
+      <Z>-8121.98047</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.422618</Y>
+      <Z>0</Z>
+      <W>0.906308</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">24</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="memory_of_past" ID="4">
+    <Name>memory_of_past02</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>-701.913</X>
+      <Y>201.081985</Y>
+      <Z>-7963.73</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.UInt32">5</Parameter>
+      <Parameter Type="System.Single">5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="cameraeventbox" ID="5">
+    <Name>cameraeventbox02</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>7179.21</X>
+      <Y>0.00152588</Y>
+      <Z>-1335.02</Z>
+    </Position>
+    <DrawDistance>100000</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.67559</Y>
+      <Z>0</Z>
+      <W>0.737277</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">15000</Parameter>
+      <Parameter Type="System.Single">15000</Parameter>
+      <Parameter Type="System.Single">3215.07983</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(11069.6, 404.158, -5062.43)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(12547.9, 276.395, -4333.6)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="cameraeventbox" ID="6">
+    <Name>cameraeventbox03</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>16297</X>
+      <Y>0</Y>
+      <Z>-1124</Z>
+    </Position>
+    <DrawDistance>10000</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.690259</Y>
+      <Z>0</Z>
+      <W>0.723562</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">10000</Parameter>
+      <Parameter Type="System.Single">8000</Parameter>
+      <Parameter Type="System.Single">3215.07983</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(22157.3, 383.13, 1568.15)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(21954.1, 255.367, 3563.46)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="memory_of_past" ID="7">
+    <Name>memory_of_past03</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>11717.9</X>
+      <Y>204.583008</Y>
+      <Z>-5115.46</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.UInt32">6</Parameter>
+      <Parameter Type="System.Single">5</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="8">
+    <Name>townsman02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12397.2</X>
+      <Y>211.581</Y>
+      <Z>-4421.72</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.67559</Y>
+      <Z>0</Z>
+      <W>0.737277</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">24</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="9">
+    <Name>townsman03</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22120</X>
+      <Y>203.153992</Y>
+      <Z>2878.46</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.087156</Y>
+      <Z>0</Z>
+      <W>0.996195</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">24</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemyextra" ID="10">
+    <Name>enemyextra01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>21998.8</X>
+      <Y>207.083008</Y>
+      <Z>3582.78</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999048</Y>
+      <Z>0</Z>
+      <W>0.043619</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Normal</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.UInt32">9</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemyextra" ID="11">
+    <Name>enemyextra02</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>22199.2988</X>
+      <Y>207.083008</Y>
+      <Z>3762.93</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.996195</Y>
+      <Z>0</Z>
+      <W>-0.087156</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Normal</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.UInt32">9</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="12">
+    <Name>eventbox01</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>22120</X>
+      <Y>203.153992</Y>
+      <Z>2878.46</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">2992.96</Parameter>
+      <Parameter Type="System.Single">2743.54</Parameter>
+      <Parameter Type="System.Single">3310.39014</Parameter>
+      <Parameter Type="System.String">d1230</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_npc" ID="13">
+    <Name>player_npc01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12373.2</X>
+      <Y>203.762009</Y>
+      <Z>-4514.98975</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.707107</Y>
+      <Z>0</Z>
+      <W>0.707107</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_goal" ID="14">
+    <Name>player_goal01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>10814.6006</X>
+      <Y>200.757</Y>
+      <Z>1040.66</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.5</Y>
+      <Z>0</Z>
+      <W>0.866025</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(10628.6, 234.59, 1028.61)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(10815.6, 255.443, 1040.5)</Parameter>
+      <Parameter Type="System.String">sonic_new</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventsphere" ID="15">
+    <Name>eventsphere01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>229.980988</X>
+      <Y>198.36</Y>
+      <Z>2424.76</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">252.147</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+   <Name>GroupHelper01</Name>
+   <Type>next_set/GroupHelper02</Type>
+   <Objects>
+     <Object>10</Object>
+	 <Object>11</Object>
+   </Objects>
+   </Group>
+  <Group>
+    <Name>GroupHelper02</Name>
+	<Type></Type>
+	<Objects>
+	  <Object>12</Object>
+	</Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper03</Name>
+	<Type>next_set/GroupHelper04</Type>
+	<Objects>
+	  <Object>1</Object>
+	</Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper04</Name>
+	<Type>next_set/GroupHelper05</Type>
+	<Objects>
+	  <Object>4</Object>
+	</Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper05</Name>
+	<Type></Type>
+	<Objects>
+	  <Object>7</Object>
+	</Objects>
+  </Group>
+</Placement>
