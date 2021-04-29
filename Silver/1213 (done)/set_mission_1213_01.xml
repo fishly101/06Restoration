@@ -82,7 +82,7 @@
   </Object>
   <Object Type="memory_of_past" ID="3">
     <Name>memory_of_past02</Name>
-    <StartInactive>false</StartInactive>
+    <StartInactive>true</StartInactive>
     <Position>
       <X>-4963.92</X>
       <Y>-199.068</Y>
@@ -105,7 +105,7 @@
   </Object>
   <Object Type="memory_of_past" ID="4">
     <Name>memory_of_past03</Name>
-    <StartInactive>false</StartInactive>
+    <StartInactive>true</StartInactive>
     <Position>
       <X>-3676.50977</X>
       <Y>11.7542</Y>
@@ -309,8 +309,8 @@
       <W>1</W>
     </Rotation>
     <Parameters>
-      <Parameter Type="System.Single">1000</Parameter>
-      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">10000</Parameter>
+      <Parameter Type="System.Single">10000</Parameter>
       <Parameter Type="System.Single">1116.05994</Parameter>
       <Parameter Type="System.Boolean">false</Parameter>
       <Parameter Type="System.Int32">0</Parameter>
@@ -397,8 +397,8 @@
       <W>1</W>
     </Rotation>
     <Parameters>
-      <Parameter Type="System.Single">1000</Parameter>
-      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">10000</Parameter>
+      <Parameter Type="System.Single">10000</Parameter>
       <Parameter Type="System.Single">1116.05994</Parameter>
       <Parameter Type="System.Boolean">false</Parameter>
       <Parameter Type="System.Int32">0</Parameter>
@@ -432,7 +432,7 @@
   </Object>
   <Object Type="eventbox" ID="16">
     <Name>eventbox02</Name>
-    <StartInactive>false</StartInactive>
+    <StartInactive>true</StartInactive>
     <Position>
       <X>-4967.91</X>
       <Y>-201.681</Y>
@@ -455,11 +455,11 @@
   </Object>
   <Object Type="eventbox" ID="17">
     <Name>eventbox03</Name>
-    <StartInactive>false</StartInactive>
+    <StartInactive>true</StartInactive>
     <Position>
-      <X>-3667.69</X>
-      <Y>0</Y>
-      <Z>5196.11035</Z>
+      <X>-3676.50977</X>
+      <Y>11.7542</Y>
+      <Z>5362.23</Z>
     </Position>
     <DrawDistance>0</DrawDistance>
     <Rotation>
@@ -565,13 +565,6 @@
 	<Type>next_set/GroupHelper07</Type>
 	<Objects>
 	  <Object>17</Object>
-	</Objects>
-  </Group>
-  <Group>
-    <Name>GroupHelper07</Name>
-	<Type></Type>
-	<Objects>
-	  <Object>10</Object>
 	</Objects>
   </Group>
 </Placement>

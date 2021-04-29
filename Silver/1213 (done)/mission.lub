@@ -17,10 +17,10 @@ c_flag_mission_success = c_flag_start + 2
 g_shortmission = true
 g_result_1213 = {
   stagename = "TOWN",
-  timebonus_base = 30000,
+  timebonus_base = 30500,
   timebonus_rate = 40,
   ringbonus_rate = 10,
-  rank_s = 30000,
+  rank_s = 28000,
   rank_a = 20000,
   rank_b = 10000,
   rank_c = 5000,
@@ -48,11 +48,11 @@ function on_talk_setup(_ARG_0_, _ARG_1_)
     if GetTemporaryFlag(_ARG_0_, c_flag_mission_start) == 0 then
       SetAnimationTalkWith(_ARG_0_, "talk0", "normal")
       g_message_setuped = _ARG_1_ .. "_01_3"
-      g_name_setuped = "msg_m1213_n213"
+      g_name_setuped = "msg_m1213_n010"
     else
       SetAnimationTalkWith(_ARG_0_, "talk0", "normal")
       g_message_setuped = _ARG_1_ .. "_01_4"
-      g_name_setuped = "msg_m1213_n213"
+      g_name_setuped = "msg_m1213_n010"
     end
   end
 end
