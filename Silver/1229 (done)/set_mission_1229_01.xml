@@ -1,0 +1,984 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Placement Name="test">
+  <Object Type="townsman" ID="0">
+    <Name>francesca</Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>1839.88</X>
+      <Y>1.48965991</Y>
+      <Z>10154.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999914</Y>
+      <Z>0</Z>
+      <W>0.0130895</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">28</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">msg_m1229_229</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.Boolean">true</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="player_start2" ID="1">
+    <Name>player_start01</Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1845.32</X>
+      <Y>2.2975</Y>
+      <Z>10049.6006</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.99713</Y>
+      <Z>0</Z>
+      <W>0.0757423</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">silver</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="2">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1949.55</X>
+      <Y>9.99947</Y>
+      <Z>8819.13</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.00760783</Y>
+      <Z>0</Z>
+      <W>0.999971</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_notice</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_hint_collision" ID="3">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>1953.75</X>
+      <Y>10.0002</Y>
+      <Z>8892.601</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">msg_m1229_info029_01_1</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="score_collision_cylinder" ID="4">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>2000.04993</X>
+      <Y>9.99966</Y>
+      <Z>8940.79</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String">twn_apple</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="5">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12167.6006</X>
+      <Y>10</Y>
+      <Z>-6775.94</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_barrel_s_a</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">5</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="6">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12168.3994</X>
+      <Y>10</Y>
+      <Z>-6892.25</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_barrel_s_a</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">5</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics_item" ID="7">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12174.1</X>
+      <Y>10</Y>
+      <Z>-6656.73</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_barrel_s_a</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">5</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="8">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12176.5</X>
+      <Y>9.99997</Y>
+      <Z>-6654.06055</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_apple</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="9">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12171.7</X>
+      <Y>10</Y>
+      <Z>-6774.41</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_apple</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="10">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>12168.6992</X>
+      <Y>9.99998</Y>
+      <Z>-6888.79</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_apple</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="11">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1708.46008</X>
+      <Y>-205.100983</Y>
+      <Z>11692.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.999959</Y>
+      <Z>0</Z>
+      <W>-0.00907535</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_notice</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_hint_collision" ID="12">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>1768.71</X>
+      <Y>-205.100983</Y>
+      <Z>11590.7</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">msg_m1229_info029_01_2</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="13">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3836.39</X>
+      <Y>-205.100983</Y>
+      <Z>13121.6006</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_tableA</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="14">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3953.09985</X>
+      <Y>-205.100983</Y>
+      <Z>13122.3008</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.72561</Y>
+      <Z>0</Z>
+      <W>0.688108</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_chair_b</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="15">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3837.87</X>
+      <Y>-205.100983</Y>
+      <Z>13236.501</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.999645</Y>
+      <Z>0</Z>
+      <W>0.0266822</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_chair_b</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="16">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3831.46021</X>
+      <Y>-205.100983</Y>
+      <Z>13010.8</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_chair_b</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="17">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3960.59985</X>
+      <Y>-205.100983</Y>
+      <Z>13255.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.715695</Y>
+      <Z>0</Z>
+      <W>0.698415</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">25</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">talk2</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="townsman" ID="18">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3737.08</X>
+      <Y>-205.100983</Y>
+      <Z>13267.999</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.703877</Y>
+      <Z>0</Z>
+      <W>-0.710324</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">1</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String">talk1</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(0, 0, 0)</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.UInt32">4294967295</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="19">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-20378.7988</X>
+      <Y>0.000190735</Y>
+      <Z>-6647.93</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.702163</Y>
+      <Z>0</Z>
+      <W>0.712018</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="20">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-20795.9</X>
+      <Y>0.000190735</Y>
+      <Z>-6432.28</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.70937</Y>
+      <Z>0</Z>
+      <W>0.704839</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="enemy" ID="21">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-20798.5</X>
+      <Y>0.000190735</Y>
+      <Z>-6832.46</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.716637</Y>
+      <Z>0</Z>
+      <W>0.697447</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">eGunner</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.String">eGunner_Fix</Parameter>
+      <Parameter Type="System.Single">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="22">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-21133.1</X>
+      <Y>47.3048019</Y>
+      <Z>-6622.5</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.87773</Y>
+      <Z>0</Z>
+      <W>0.47916</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="objectphysics" ID="23">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6863.59033</X>
+      <Y>10.0002</Y>
+      <Z>-5130.97</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">WoodBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="24">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-11634.2</X>
+      <Y>9.999849</Y>
+      <Z>-4184.12</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">IronBox</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="25">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-3794.85</X>
+      <Y>9.99908</Y>
+      <Z>7535.61035</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.99999</Y>
+      <Z>0</Z>
+      <W>-0.00506074</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">twn_notice</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="common_hint_collision" ID="26">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>-3810.77</X>
+      <Y>10.0004005</Y>
+      <Z>7450.34033</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">msg_m1229_info029_01_3</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">250</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="27">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-7124.97</X>
+      <Y>-203.713989</Y>
+      <Z>11592.1</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.446896</X>
+      <Y>0.532766</Y>
+      <Z>0.485567</Z>
+      <W>-0.529789</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">rct_scoop</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="28">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-6879.44043</X>
+      <Y>-203.713989</Y>
+      <Z>11472.4</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0.699094</X>
+      <Y>0.0244932</Y>
+      <Z>-0.0319393</Z>
+      <W>-0.713901</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">rct_pick</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="29">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-7085.59033</X>
+      <Y>-70.5985</Y>
+      <Z>11447.6</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">300</Parameter>
+      <Parameter Type="System.Single">300</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="objectphysics" ID="30">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>11325.3994</X>
+      <Y>16.5177</Y>
+      <Z>5875.42</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>-0.4555</X>
+      <Y>-0.406225</Y>
+      <Z>-0.547628</Z>
+      <W>0.572368</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.String">rct_scoop</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="memory_of_past" ID="31">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>11335.8</X>
+      <Y>14.1573992</Y>
+      <Z>6061.11</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.UInt32">32</Parameter>
+      <Parameter Type="System.Single">10</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="cameraeventbox" ID="32">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2082.95</X>
+      <Y>0</Y>
+      <Z>10474.7</Z>
+    </Position>
+    <DrawDistance>10000</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>-0.817385</Y>
+      <Z>0</Z>
+      <W>0.576092</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">15000</Parameter>
+      <Parameter Type="System.Single">15000</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.Boolean">false</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+      <Parameter Type="System.Int32">3</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-6471, 52.4785, 11501.7)</Parameter>
+      <Parameter Type="Marathon.IO.Formats.Vector3">(-7444.58, -205.101, 11434)</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="33">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>11364</X>
+      <Y>10.0001</Y>
+      <Z>6077.14</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">250</Parameter>
+      <Parameter Type="System.String"></Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="34">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1971.78992</X>
+      <Y>9.999849</Y>
+      <Z>10016.3</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String">rule</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="35">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>-6994.33</X>
+      <Y>-150.594</Y>
+      <Z>11425.9</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.843023</Y>
+      <Z>0</Z>
+      <W>0.537879</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="36">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>6866.85</X>
+      <Y>51.7394</Y>
+      <Z>-5117.25</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="37">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>3825.2</X>
+      <Y>-86.156395</Y>
+      <Z>13123.8008</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="medal_of_royal_bronze" ID="38">
+    <Name></Name>
+    <StartInactive>true</StartInactive>
+    <Position>
+      <X>2000.04993</X>
+      <Y>51.9568</Y>
+      <Z>8940.79</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0.877728</Y>
+      <Z>0</Z>
+      <W>-0.479159</W>
+    </Rotation>
+    <Parameters />
+  </Object>
+  <Object Type="eventbox" ID="39">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1602.66992</X>
+      <Y>-205.100983</Y>
+      <Z>11561.6992</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">1000</Parameter>
+      <Parameter Type="System.Single">1500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String">hint2</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="40">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>1913.05</X>
+      <Y>9.99966</Y>
+      <Z>8947.73</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String">hint1</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Object Type="eventbox" ID="41">
+    <Name></Name>
+    <StartInactive>false</StartInactive>
+    <Position>
+      <X>-3664.59</X>
+      <Y>10.0002</Y>
+      <Z>7495.36963</Z>
+    </Position>
+    <DrawDistance>0</DrawDistance>
+    <Rotation>
+      <X>0</X>
+      <Y>0</Y>
+      <Z>0</Z>
+      <W>1</W>
+    </Rotation>
+    <Parameters>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">500</Parameter>
+      <Parameter Type="System.Single">750</Parameter>
+      <Parameter Type="System.String">hint3</Parameter>
+      <Parameter Type="System.Int32">0</Parameter>
+    </Parameters>
+  </Object>
+  <Group>
+    <Name>GroupHelper01</Name>
+    <Type>next_set/GroupHelper02</Type>
+    <Objects>
+      <Object>33</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper02</Name>
+    <Type></Type>
+    <Objects>
+      <Object>35</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper03</Name>
+    <Type>next_set/GroupHelper02</Type>
+    <Objects>
+      <Object>29</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper04</Name>
+    <Type>next_set/GroupHelper07</Type>
+    <Objects>
+      <Object>4</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper05</Name>
+    <Type>next_set/GroupHelper07</Type>
+    <Objects>
+      <Object>8</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper06</Name>
+    <Type>next_set/GroupHelper07</Type>
+    <Objects>
+      <Object>9</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper07</Name>
+    <Type></Type>
+    <Objects>
+      <Object>38</Object>
+    </Objects>
+  </Group>
+  <Group>
+    <Name>GroupHelper08</Name>
+    <Type>dmedal</Type>
+    <Objects>
+      <Object>22</Object>
+      <Object>35</Object>
+      <Object>36</Object>
+      <Object>37</Object>
+      <Object>38</Object>
+    </Objects>
+  </Group>
+</Placement>
